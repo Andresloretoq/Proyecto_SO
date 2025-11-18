@@ -49,7 +49,6 @@ Los ejecutables se generarán en la carpeta build/.
  Ejecución
 1. Crear pipe (si no existe)
 bash
-Copiar código
 rm -f pipeRecibe
 mkfifo pipeRecibe
 2. Ejecutar el Controlador
