@@ -45,7 +45,6 @@ Copiar código
 
 ##  Compilación
 
-Desde la raíz del proyecto:
 
 ```bash
 make
