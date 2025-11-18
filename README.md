@@ -58,7 +58,6 @@ rm -f pipeRecibe
 mkfifo pipeRecibe
 2. Ejecutar el Controlador
 bash
-Copiar código
 ./build/controlador -i 7 -f 19 -s 1 -t 30 -p pipeRecibe
 Parámetros:
 
@@ -71,7 +70,6 @@ Flag	Significado
 
 3. Ejecutar un Agente
 bash
-Copiar código
 ./build/agente -s A -a data/solicitudes_A.csv -p pipeRecibe
 Parámetros:
 
