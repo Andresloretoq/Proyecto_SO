@@ -37,10 +37,6 @@ Proyecto_SO_final/
 ├── data/ # Archivos CSV de prueba
 ├── Makefile
 └── README.md
-
-yaml
-Copiar código
-
 ---
 
 ##  Compilación
